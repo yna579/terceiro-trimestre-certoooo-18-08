@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: rgb(96, 98, 221);
     font-family: Bai Jamjuree;
 }
 
@@ -8,7 +8,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(116, 131, 196);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -20,7 +20,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(36, 112, 211);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -41,8 +41,8 @@ body {
 
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(47, 4, 51);
+    color: rgb(52, 50, 160);
     position: fixed;
     bottom: 0;
     width: 100%;
